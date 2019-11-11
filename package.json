@@ -1,0 +1,18 @@
+{
+  "name": "workshop-ms",
+  "version": "1.0.0",
+  "description": "proyecto que sirve de base para hacer pruebas del esquema de branchies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.naranja.dev/core-tech/whorkshop-ms"
+  },
+  "author": "Manuel Ortiz <manuel.ortiz@fluxit.com.ar>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
